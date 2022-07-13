@@ -6,7 +6,7 @@ plugins {
 }
 
 group = "hu.tothlp"
-version = "1.0"
+version = "0.1"
 
 repositories {
     mavenCentral()
